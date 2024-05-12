@@ -2,4 +2,22 @@
 random colorscheme from the web
 
 # colors
-- ![#f03c15]([https://placehold.co/15x15/f03c15/f03c15.png](https://placehold.co/10x10/0e1318/0e1318/png)) `#f03c15`
+------------- main colors
+`0f1214` = BG
+`ffffff` = FG
+`181c1e` = BG bright
+`020203` = BG dark
+-------------
+
+------------- other colors
+`f4421c` = RED
+`f41c75` = PINK
+`bf1cf4` = PURPLE
+`1c7df4` = BLUE
+`1cdaf4` = LIGHT BLUE
+`1cf4a4` = LIGHT GREEN
+`1cf43c` = GREEN
+`c2f41c` = TOXIC
+`f4b21c` = ORANGE
+`f4f41c` = YELLOW
+-------------
