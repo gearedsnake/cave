@@ -1,2 +1,5 @@
 # cave
-colorscheme that no one except me is ever going to use
+random colorscheme from the web
+
+# colors
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
