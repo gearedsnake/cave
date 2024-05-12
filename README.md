@@ -1,7 +1,7 @@
 # cave
 random colorscheme from the web
 
-# colors
+## colors
 main colors
 ```
 0f1214 = BG
