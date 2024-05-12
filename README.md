@@ -2,14 +2,17 @@
 random colorscheme from the web
 
 # colors
-------------- main colors
-`0f1214` = BG
-`ffffff` = FG
-`181c1e` = BG bright
-`020203` = BG dark
--------------
+main colors
+```
+0f1214 = BG
+ffffff = FG
+181c1e = BG bright
+020203 = BG dark
+```
 
-------------- other colors
+
+other colors
+```
 `f4421c` = RED
 `f41c75` = PINK
 `bf1cf4` = PURPLE
@@ -20,4 +23,4 @@ random colorscheme from the web
 `c2f41c` = TOXIC
 `f4b21c` = ORANGE
 `f4f41c` = YELLOW
--------------
+```
